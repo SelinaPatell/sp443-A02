@@ -22,27 +22,27 @@ should be C:\Program Files\Git\bin\git.exe -. click test; if successful, a messa
 Part 2: Glossary to include these terms in a bulleted list.
 
 
-Branch: allows you to isolate development work without affecting other parts in the repository
-
-Clone: creates a local copy of the repository on your computer 
-
-Commit: saves changes to local repository with a message 
-
-Fetch: downloads changes from the repository to the local repository
-
-GIT: Version control system for tracking changes in your code
-
-Github: website for hosting and collaboraing on git repositoies, saves your code and allows others to view it 
-
-Merge: combines changes from one into another branch
-
-Merge Conflict: when Git can't automatically merge changes from different branches
-
-Push: uploads local repository changes to the repository on Github
-
-Pull: downloads changes from github to local repository
-
-Remote: version of repository stored in the cloud/serve, e.g. Github
-
-Repository: a storage location where your projects file and versions are stored
+ Branch: allows you to isolate development work without affecting other parts in the repository
+ 
+ Clone: creates a local copy of the repository on your computer 
+ 
+ Commit: saves changes to local repository with a message 
+ 
+ Fetch: downloads changes from the repository to the local repository
+ 
+ GIT: Version control system for tracking changes in your code
+ 
+ Github: website for hosting and collaboraing on git repositoies, saves your code and allows others to view it 
+ 
+ Merge: combines changes from one into another branch
+ 
+ Merge Conflict: when Git can't automatically merge changes from different branches
+ 
+ Push: uploads local repository changes to the repository on Github
+ 
+ Pull: downloads changes from github to local repository
+ 
+ Remote: version of repository stored in the cloud/serve, e.g. Github
+ 
+ Repository: a storage location where your projects file and versions are stored
 
